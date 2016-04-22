@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Choose For Me</string>
+    <string name="choice_button">Choose</string>
+    <string name="add_choice">Add New Choice</string>
+    <string name="categories">Categories</string>
+    <string name="choice">Choice</string>
+    <string name="category">Category</string>
+    <string name="add_button">Add Choice</string>
+</resources>
